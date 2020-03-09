@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Direct To Consumer Technology Leader",
     "linkedinId":"NeilsonFlemming",
     "skypeid": "Your skypeid",
-    "roleDescription": "I'm Reail IT technologist. I dabble in various parts of back end development and like learn about new technologies, hang out with friends, or simply enjoy the great outdoors in my freetime.",
+    "roleDescription": "I'm Reail IT technologist. I dabble in various parts of backend web development and like learn about new technologies, hang out with friends, or simply enjoy the great outdoors in my freetime.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -17,9 +17,9 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme": "Innovative directory to consumer technology leader with more than 10+ years of combined experience in POS, e-commerce, payments, unified commerce, and reporting systems.\n" +
-        "I have a very strong aptitude for translating, clarifying, and communicating business requirements into enhanced, executable technical requirements and deliverables.",
-    "address":"Queens, NY",
+    "aboutme": "Innovative director to consumer technology leader with more than 10+ years of combined experience in POS, e-commerce, payments, unified commerce, and reporting systems.\n" +
+        "Very strong aptitude for translating, clarifying, and communicating business requirements into enhanced, executable technical requirements and deliverables.",
+    "address":"718-607-6688",
     "website":"NeilonFlemming@gmail.com",
     "education":[
       {
@@ -38,7 +38,7 @@ let resumeData = {
     "work":[
       {
         "CompanyName":"Global Brands Group",
-        "specialization":"Sr. Manager Direct To Consumer Platforms (hired as manager)",
+        "specialization":"Sr. Manager Direct To Consumer Platforms",
         "MonthOfLeaving":"Jan 2015 - Present",
         "Achievements":
         "My team supports GBG’s entire direct-to-consumer (DTC) IT landscape. Wevprovide a hands-on experience by architecting, implementing, and supporting DTC technologies for ecommerce and retail store locations, as well as a hands-off experience by providing guidance and feedback on corporate strategy and the overall direction of the business. Brands in our portfolio include but are not limited to The Frye Company, Joes Jeans, Spyder, Juicy Couture, Aquatalia, Sean John, B New York, Mind Body Motion, Ely Cattleman, Sneaker Slides, Katy Perry, Tahari ASL, Saga Outerwear."},

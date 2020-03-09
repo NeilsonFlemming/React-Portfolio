@@ -12,7 +12,7 @@ export default class Header extends Component {
                <li><a className="smoothscroll" href="#resume">Resume</a></li>
                 <li><a className="smoothscroll" href="#certs">Certifications</a></li>
                <li><a className="smoothscroll" href="#skills">Skills</a></li>
-               <li><a className="smoothscroll" href="#portfolio">Projects</a></li>
+                {/*<li><a className="smoothscroll" href="#portfolio">Projects</a></li>*/}
             </ul>
          </nav>
 
