@@ -33,7 +33,7 @@ export default class About extends Component {
                      {resumeData.address}
                     </span>
                     <br></br>
-                    <span>{resumeData.website}</span>
+                    <span><a href="mailto:NeilsonFlemming@Gmail.com"> {resumeData.website} </a> </span>
        					   </p>
                   </div>
                </div>
