@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Direct To Consumer Technology Leader",
     "linkedinId":"NeilsonFlemming",
     "skypeid": "Your skypeid",
-    "roleDescription": "I'm Reail IT technologist. I dabble in various parts of backend web development and like learn about new technologies, hang out with friends, or simply enjoy the great outdoors in my freetime.",
+    "roleDescription": "I'm Reail IT technologist. I like to dabble in various parts of backend web development, learn about new technologies, hang out with friends, or simply enjoy the great outdoors in my freetime.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -17,7 +17,7 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme": "Innovative director to consumer technology leader with more than 10+ years of combined experience in POS, e-commerce, payments, unified commerce, and reporting systems.\n" +
+    "aboutme": "Innovative DTC technology leader with more than 10+ years of combined experience in POS, e-commerce, payments, unified commerce, and reporting systems.\n" +
         "Very strong aptitude for translating, clarifying, and communicating business requirements into enhanced, executable technical requirements and deliverables.",
     "address":"718-607-6688",
     "website":"NeilsonFlemming@Gmail.com",
