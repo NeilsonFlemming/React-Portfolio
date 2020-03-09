@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Direct To Consumer Technology Leader",
     "linkedinId":"NeilsonFlemming",
     "skypeid": "Your skypeid",
-    "roleDescription": "By day I ",
+    "roleDescription": "I'm Reail IT technologist. I dabble in various parts of back end development and like learn about new technologies, hang out with friends, or simply enjoy the great outdoors in my freetime.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -17,7 +17,7 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme": "I'm an innovative directory to consumer technology leader with more than 10+ years of combined experience in POS, e-commerce, payments, unified commerce, and reporting systems.\n" +
+    "aboutme": "Innovative directory to consumer technology leader with more than 10+ years of combined experience in POS, e-commerce, payments, unified commerce, and reporting systems.\n" +
         "I have a very strong aptitude for translating, clarifying, and communicating business requirements into enhanced, executable technical requirements and deliverables.",
     "address":"Queens, NY",
     "website":"NeilonFlemming@gmail.com",
@@ -61,7 +61,7 @@ let resumeData = {
         "Achievements":"M.X. Data is a boutique retail IT consulting firm specializing in luxury retail. While with the company took on roles such as account manager, POS analyst, project manager, and IT support. Clients included but were not limited to Lanvin, Burberry (Brazil), Celine, Marc Jacobs, Fendi, GANT, Carolina Herrera, Jimmy Choo, and L.K. Bennett."
       },
       {
-        "CompanyName":"FENDI NA",
+        "CompanyName":"FENDI North America",
         "specialization":"IT Analyst",
         "MonthOfLeaving":"Nov 2010 - Nov 2011",
         "Achievements":"One half of a 2-person IT department. Managed all IT systems and support in the US and Mexico for both corporate and stores. Interfaced with Italy to roll out hardware and software updates."
@@ -79,25 +79,16 @@ let resumeData = {
         "skillname":"Javascript"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"Python"
       },
       {
-        "skillname":"Redux-Saga"
+        "skillname":"SQL"
       },
       {
-        "skillname":"GraphQL"
+        "skillname":"APIs"
       },
       {
         "skillname":"Nodejs"
-      },
-      {
-        "skillname":"Firebase"
-      },
-      {
-        "skillname":"MSSQL"
-      },
-      {
-        "skillname":"Postgres"
       }
     ],
     "certifications":[
