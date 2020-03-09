@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Direct To Consumer Technology Leader",
     "linkedinId":"NeilsonFlemming",
     "skypeid": "Your skypeid",
-    "roleDescription": "I'm a Reail IT technologist. I like to dabble in various parts of backend web development, learn about new technologies, spend time with friends, or simply enjoy the great outdoors in my freetime.",
+    "roleDescription": "I'm a Retail IT technologist. I like to dabble in various parts of backend web development, learn about new technologies, spend time with friends, or simply enjoy the great outdoors in my freetime.",
     "socialLinks":[
         {
           "name":"linkedin",
