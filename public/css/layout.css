@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/test3.jpg) no-repeat top center;
+   background: #161415 url(../images/header-background.jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -188,8 +188,8 @@ ul#nav li.current a { color: #F06000; }
 
 #about {
    background: #2B2B2B;
-   padding-top: 96px;
-   padding-bottom: 66px;
+   padding-top: 50px;
+   padding-bottom: 50px;
    overflow: hidden;
 }
 
@@ -237,8 +237,8 @@ ul#nav li.current a { color: #F06000; }
 
 #resume {
    background: #fff;
-   padding-top: 90px;
-   padding-bottom: 72px;
+   padding-top: 50px;
+   padding-bottom: 50px;
    overflow: hidden;
 }
 
@@ -316,6 +316,7 @@ ul#nav li.current a { color: #F06000; }
 	float: left;
 	padding: 0;
 	text-align: left;
+   transform: rotate(-90deg);
 }
 .bars .skills {
   	margin-top: 36px;
@@ -1043,3 +1044,52 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 #go-top a:hover { background-color: #0F9095; }
 
+/* ------------------------------------------------------------------ */
+/* j. Certifications Section
+/* ------------------------------------------------------------------ */
+
+#certs {
+   background: #fff;
+   padding-top: 50px;
+   padding-bottom: 50px;
+   overflow: hidden;
+}
+
+#certs a, #certs a:visited  { color: #11ABB0; }
+#certs a:hover, #certs a:focus { color: #313131; }
+
+#certs h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#certs h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#certs h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+}
+
+#certs .header-col { padding-top: 9px; }
+#certs .main-col { padding-right: 10%; }
+
+.cert {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #E8E8E8;
+}
+#certs .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+#certs .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+#certs .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+}

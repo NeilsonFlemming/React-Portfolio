@@ -1,65 +1,70 @@
 let resumeData = {
-    "imagebaseurl":"https://github.com/stev1905/",
-    "name": "Christian Stevens",
-    "role": "Frontend Developer",
-    "linkedinId":"Your LinkedIn Id",
+    "imagebaseurl":"https://github.com/NeilsonFlemming/",
+    "name": "Neilson Flemming",
+    "role": "Direct To Consumer Technology Leader",
+    "linkedinId":"NeilsonFlemming",
     "skypeid": "Your skypeid",
-    "roleDescription": "I'm a full-stack developer.",
+    "roleDescription": "By day I ",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/christian-stevens-34367110b/",
+          "url":"https://www.linkedin.com/in/neilsonflemming/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"https://github.com/stev1905/",
+          "url":"https://github.com/NeilsonFlemming/",
           "className":"fa fa-github"
         }
       ],
-    "aboutme":
-      "I'm an experienced IT professional striving to transition into a role as a full-stack Developer. Throughout my career, I've had the opportunity to acquire on the job experience with web/app development. Over that time, I've developed a passion and appreciation for growing my skills independently with a focus on FERN stack (Firebase, Express.js, React.js, Node.js). I'm seeking to join a positive and energetic team where I can be a major contributor and continue to grow my skills as a developer.",
-    "address":"Brooklyn, NY",
-    "website":"christian.stevens11@outlook.com",
+    "aboutme": "I'm an innovative directory to consumer technology leader with more than 10+ years of combined experience in POS, e-commerce, payments, unified commerce, and reporting systems.\n" +
+        "I have a very strong aptitude for translating, clarifying, and communicating business requirements into enhanced, executable technical requirements and deliverables.",
+    "address":"Queens, NY",
+    "website":"NeilonFlemming@gmail.com",
     "education":[
       {
-        "UniversityName":"State University of New York at Fredonia",
-        "specialization":"Bachelor of Science: Computer Informations Systems",
+        "UniversityName":"New York City College Of Technology",
+        "specialization":"Associates of Science: Computer Science",
         "MonthOfPassing":"May",
-        "YearOfPassing":"2012"
-      }
+        "YearOfPassing":"2010"
+      },
+        {
+            "UniversityName":"New York City College Of Technology",
+            "specialization":"Bachelor of Technology: Computer Informations Systems",
+            "MonthOfPassing":"May",
+            "YearOfPassing":"2012"
+        }
     ],
     "work":[
       {
-        "CompanyName":"National September 11 Memorial & Museum",
-        "specialization":"Enterprise Applications Analyst",
-        "MonthOfLeaving":"May 2018 - Present",
+        "CompanyName":"Global Brands Group",
+        "specialization":"Sr. Manager Direct To Consumer Platforms (hired as manager)",
+        "MonthOfLeaving":"Jan 2015 - Present",
         "Achievements":
-        "Provide escalated technical support for core business applications. Create and design SQL reports upon ADHOC requests for system users. Leverage knowledge in HTML, CSS, and Javascript to customize, configure and maintain ticketing web stores according to Admissions, Operations, and IT requirements. Collaborate with vendors in procuring, maintaining, upgrading, and modifying enterprise applications."
+        "My team supports GBG’s entire direct-to-consumer (DTC) IT landscape. Wevprovide a hands-on experience by architecting, implementing, and supporting DTC technologies for ecommerce and retail store locations, as well as a hands-off experience by providing guidance and feedback on corporate strategy and the overall direction of the business. Brands in our portfolio include but are not limited to The Frye Company, Joes Jeans, Spyder, Juicy Couture, Aquatalia, Sean John, B New York, Mind Body Motion, Ely Cattleman, Sneaker Slides, Katy Perry, Tahari ASL, Saga Outerwear."},
+      {
+        "CompanyName":"J.Mclaughlin",
+        "specialization":"IT Systems Analyst",
+        "MonthOfLeaving":"Jan 2014 - Jan 2015",
+        "Achievements":"One of 3 analyst reporting to the VP of IT. Tasked with being the IT lead for thecompany’s ERP, OMS/DOM, POS and Payment solutions. Daily tasks included supervision of the helpdesk team, IT system maintenance, and project management (new enhancements/integrations)."
       },
       {
-        "CompanyName":"NFL Experience Time Square",
-        "specialization":"IT Operations Manager",
-        "MonthOfLeaving":"Aug 2017 - May 2018",
-        "Achievements":"Lead role in the planning, design, installation and support of systems and network infrastructure as it relates to video, audio, broadcast, and video conferencing systems for a brand-new attraction facility. Provided day to day management troubleshooting of all onsite technology and audio/video installations, pertaining to POS systems, indoor/outdoor digital signage, 4D immersive theatre, and interactives, digital platforms and network infrastructure. Developed and managed technical related budgets; technical SOP's for daily operations and resources for events and projects. Established and managed vendor relations relating to preventive maintenance, SLA contracts, tier 2 support for all venue technical infrastructure."
+        "CompanyName":"Havaianas",
+        "specialization":"IT Analyst",
+        "MonthOfLeaving":"Jul 2013 - Jan 2014",
+        "Achievements":"One half of a 2-person IT department. Headed the company’s DTC initiative by opening the first 6 US stores. Supported all office, store, and remote employees during normal operating hours and afterhours (nights and weekends)."
       },
       {
-        "CompanyName":"Leopard Solutions",
-        "specialization":"Project Manager - Data Operations",
-        "MonthOfLeaving":"Jul 2016 - Aug 2017",
-        "Achievements":"Led team in creating and executing test plans to determine optimal application functionality. Worked closely with overseas developers to coordinate tasks and project deliverables. Managed database team and contractors with day-to-day tasks on data acquisition and data analysis for Leopard Solutions application tools."
+        "CompanyName":"M.X. Data",
+        "specialization":"Retail IT Analyst",
+        "MonthOfLeaving":"Nov 2011 - Jul 2013",
+        "Achievements":"M.X. Data is a boutique retail IT consulting firm specializing in luxury retail. While with the company took on roles such as account manager, POS analyst, project manager, and IT support. Clients included but were not limited to Lanvin, Burberry (Brazil), Celine, Marc Jacobs, Fendi, GANT, Carolina Herrera, Jimmy Choo, and L.K. Bennett."
       },
       {
-        "CompanyName":"Macys Merchandising Group",
-        "specialization":"PLM Business Analyst",
-        "MonthOfLeaving":"Dec 2014 - Aug 2016",
-        "Achievements":"Developed test plans and regression scripts based on business user's workflows as it pertained to the PLM application. Collaborated with web development vendor to manage user story requests, bug fixes, and application upgrades for monthly sprint releases. Provided level 2 technical support to application users. "
-      },
-      {
-        "CompanyName":"J.McLaughlin",
-        "specialization":"IT Support Analyst",
-        "MonthOfLeaving":"Jan 2013 - Dec 2014",
-        "Achievements":"Leveraged MS SQL to fetch data and create reports upon ADHOC requests. Contributed to developing webpages for Corporate intranet built with PHP, HTML & MYSQL database. Provided technical support relating to Point-of-Sale and system hardware to the corporate office (100+ users) and retail locations nationwide (90+ stores)."
+        "CompanyName":"FENDI NA",
+        "specialization":"IT Analyst",
+        "MonthOfLeaving":"Nov 2010 - Nov 2011",
+        "Achievements":"One half of a 2-person IT department. Managed all IT systems and support in the US and Mexico for both corporate and stores. Interfaced with Italy to roll out hardware and software updates."
       }
     ],
     "skillsDescription":"",
@@ -94,6 +99,18 @@ let resumeData = {
       {
         "skillname":"Postgres"
       }
+    ],
+    "certifications":[
+        {"name": "ITIL Foundation V3"},
+        {"name": "Lean Six Sigma Green Belt"},
+        {"name": "Google IT Support"},
+        {"name": "Google Python Professional"},
+        {"name": "Oracle – Database for Developers"},
+        {"name": "VMware Certified Associate - Data Center Virtualization"},
+        {"name": "VMware Certified Associate - Cloud"},
+        {"name": "Retail Pro Applications Expert"},
+        {"name": "Retail Pro Reports Professional"},
+        {"name": "Retail Pro System Engineer"}
     ],
     "portfolio":[
       {
