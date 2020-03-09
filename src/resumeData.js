@@ -41,12 +41,12 @@ let resumeData = {
         "specialization":"Sr. Manager Direct To Consumer Platforms",
         "MonthOfLeaving":"Jan 2015 - Present",
         "Achievements":
-        "My team supports GBG’s entire direct-to-consumer (DTC) IT landscape. Wevprovide a hands-on experience by architecting, implementing, and supporting DTC technologies for ecommerce and retail store locations, as well as a hands-off experience by providing guidance and feedback on corporate strategy and the overall direction of the business. Brands in our portfolio include but are not limited to The Frye Company, Joes Jeans, Spyder, Juicy Couture, Aquatalia, Sean John, B New York, Mind Body Motion, Ely Cattleman, Sneaker Slides, Katy Perry, Tahari ASL, Saga Outerwear."},
+        "My team supports GBG’s entire direct-to-consumer (DTC) IT landscape. We provide a hands-on experience by architecting, implementing, and supporting DTC technologies for ecommerce and retail store locations, as well as a hands-off experience by providing guidance and feedback on corporate strategy and the overall direction of the business. Brands in our portfolio include but are not limited to The Frye Company, Joes Jeans, Spyder, Juicy Couture, Aquatalia, Sean John, B New York, Mind Body Motion, Ely Cattleman, Sneaker Slides, Katy Perry, Tahari ASL, Saga Outerwear."},
       {
         "CompanyName":"J.Mclaughlin",
         "specialization":"IT Systems Analyst",
         "MonthOfLeaving":"Jan 2014 - Jan 2015",
-        "Achievements":"One of 3 analyst reporting to the VP of IT. Tasked with being the IT lead for thecompany’s ERP, OMS/DOM, POS and Payment solutions. Daily tasks included supervision of the helpdesk team, IT system maintenance, and project management (new enhancements/integrations)."
+        "Achievements":"One of 3 analyst reporting to the VP of IT. Tasked with being the IT lead for the company’s ERP, OMS/DOM, POS and Payment solutions. Daily tasks included supervision of the helpdesk team, IT system maintenance, and project management (new enhancements/integrations)."
       },
       {
         "CompanyName":"Havaianas",
@@ -109,12 +109,6 @@ let resumeData = {
         "description":"React.js & Redux.js Frontend & Express.js Backend",
         "imgurl":"images/portfolio/project11.jpg",
         "projectUrl":"https://crwn-live0511.herokuapp.com/"
-      },
-      {
-        "name":"Face Recognition App",
-        "description":"React.js Frontend, Postgres DB, Express.js Backend",
-        "imgurl":"images/portfolio/project12.jpg",
-        "projectUrl":"https://smart-brain0620.herokuapp.com/"
       }
     ]
   }
