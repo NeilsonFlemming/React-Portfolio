@@ -19,7 +19,7 @@ let resumeData = {
       ],
     "aboutme": "Innovative DTC technology leader with more than 10+ years of combined experience in POS, e-commerce, payments, unified commerce, and reporting systems.\n" +
         "Very strong aptitude for translating, clarifying, and communicating business requirements into enhanced, executable technical requirements and deliverables.",
-    "address":"718-607-6688",
+    "address":"",
     "website":"NeilsonFlemming@Gmail.com",
     "education":[
       {
