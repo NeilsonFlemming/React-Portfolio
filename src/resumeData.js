@@ -41,7 +41,7 @@ let resumeData = {
         "specialization":"Sr. Manager Direct To Consumer Platforms",
         "MonthOfLeaving":"Jan 2015 - Present",
         "Achievements":
-        "My team supports GBG’s entire direct-to-consumer (DTC) IT landscape. We provide a hands-on experience by architecting, implementing, and supporting DTC technologies for ecommerce and retail store locations, as well as a hands-off experience by providing guidance and feedback on corporate strategy and the overall direction of the business. Brands in our portfolio include but are not limited to The Frye Company, Joes Jeans, Spyder, Juicy Couture, Aquatalia, Sean John, B New York, Mind Body Motion, Ely Cattleman, Sneaker Slides, Katy Perry, Tahari ASL, Saga Outerwear."},
+        "Originally hired as manager promoted to Sr. Manager after 1 year, my team supports GBG’s entire direct-to-consumer (DTC) IT landscape. We provide a hands-on experience by architecting, implementing, and supporting DTC technologies for ecommerce and retail store locations, as well as a hands-off experience by providing guidance and feedback on corporate strategy and the overall direction of the business. Brands in our portfolio include but are not limited to The Frye Company, Joes Jeans, Spyder, Juicy Couture, Aquatalia, Sean John, B New York, Mind Body Motion, Ely Cattleman, Sneaker Slides, Katy Perry, Tahari ASL, Saga Outerwear."},
       {
         "CompanyName":"J.Mclaughlin",
         "specialization":"IT Systems Analyst",
