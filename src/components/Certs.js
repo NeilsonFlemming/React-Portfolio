@@ -14,7 +14,7 @@ export default class Certs extends Component {
                                 return(
                                     <div className="row item">
                                         <div className="twelve columns">
-                                            <h6>{index+1}.{item.name}</h6>
+                                            <h6> <a href={item.url} target={"_blank"}> {index+1}.{item.name}</a> </h6>
                                         </div>
                                     </div>
                                 )
