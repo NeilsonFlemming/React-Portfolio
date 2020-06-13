@@ -36,10 +36,16 @@ let resumeData = {
         }
     ],
     "work":[
+        {
+        "CompanyName":"Salesforce",
+        "specialization":"Associate Program Architect",
+        "MonthOfLeaving":"May 2020 - Present",
+        "Achievements":
+        "I solve the worlds problems using my brain and Salesforce."},
       {
         "CompanyName":"Global Brands Group",
         "specialization":"Sr. Manager Direct To Consumer Platforms",
-        "MonthOfLeaving":"Jan 2015 - Present",
+        "MonthOfLeaving":"Jan 2015 - May 2020",
         "Achievements":
         "Originally hired as manager promoted to Sr. Manager after 1 year, my team supports GBG’s entire direct-to-consumer (DTC) IT landscape. We provide a hands-on experience by architecting, implementing, and supporting DTC technologies for ecommerce and retail store locations, as well as a hands-off experience by providing guidance and feedback on corporate strategy and the overall direction of the business. Brands in our portfolio include but are not limited to The Frye Company, Joes Jeans, Spyder, Juicy Couture, Aquatalia, Sean John, B New York, Mind Body Motion, Ely Cattleman, Sneaker Slides, Katy Perry, Tahari ASL, Saga Outerwear."},
       {
@@ -92,6 +98,7 @@ let resumeData = {
       }
     ],
     "certifications":[
+        {"name": "Salesforce Certified Administrator", "url":"https://www.dropbox.com/s/53fsb35lv9u4fbm/Salesforce_Administrator.pdf?dl=0"},
         {"name": "ITIL Foundation V3", "url":"https://www.dropbox.com/s/n4n5wvuzoo5ie3j/ITIL_Certification.pdf?dl=0"},
         {"name": "Lean Six Sigma Green Belt", "url":"https://www.dropbox.com/s/0q95vzxrpib5j37/GreenBelt.PDF?dl=0"},
         {"name": "Google IT Support", "url":"https://www.dropbox.com/s/fj9vn3irdio0rn9/NFlemming%20Google%20Cert.pdf?dl=0i"},
