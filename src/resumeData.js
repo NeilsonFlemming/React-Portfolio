@@ -112,6 +112,15 @@ let resumeData = {
         {"name": "Retail Pro Reports Professional", "url":"https://www.dropbox.com/s/37sk0k8u8m3esds/Flemming_Neilson_RPRP.pdf?dl=0"},
         {"name": "Retail Pro System Engineer", "url":"https://www.dropbox.com/s/zvtgg6uvszco4ck/Flemming_Neilson_RPSE.pdf?dl=0"},
     ]
+  },
+    "portfolio":[
+      {
+        "name":"E-commerce Retail App",
+        "description":"React.js & Redux.js Frontend & Express.js Backend",
+        "imgurl":"images/portfolio/project11.jpg",
+        "projectUrl":"https://crwn-live0511.herokuapp.com/"
+      }
+    ]
   }
   
   export default resumeData
