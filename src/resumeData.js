@@ -102,6 +102,7 @@ let resumeData = {
         {"name": "Salesforce Certified Advanced Administrator", "url":"https://www.dropbox.com/s/klzjjxekp0sznqv/Salesforce_Advanced_Administrator.pdf"},
         {"name": "Salesforce Certified Platform App Builder", "url":"https://www.dropbox.com/s/my1hwsme9xsen7o/Salesforce_Platform_App_Builder.pdf"},
         {"name": "Salesforce Certified Sharing And Visibility Designer", "url":"https://www.dropbox.com/s/d25j9u8vspvxvtt/salesforce_shrng_visibility_designer.pdf"},
+        {"name": "Salesforce Certified Sales Cloud Consultant", "url":"https://www.dropbox.com/s/b8pmoh50lz5nyhk/Salesforce_Sales_Cloud_Consultant.pdf"},
         {"name": "ITIL Foundation V3", "url":"https://www.dropbox.com/s/n4n5wvuzoo5ie3j/ITIL_Certification.pdf?dl=0"},
         {"name": "Lean Six Sigma Green Belt", "url":"https://www.dropbox.com/s/0q95vzxrpib5j37/GreenBelt.PDF?dl=0"},
         {"name": "Google IT Support", "url":"https://www.dropbox.com/s/fj9vn3irdio0rn9/NFlemming%20Google%20Cert.pdf?dl=0i"},
